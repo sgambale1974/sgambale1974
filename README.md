@@ -1,0 +1,5 @@
+- Hi, I’m Scott!
+- I’m just breaking into the world of Data Analytics. I come to the field with a background in social science research and a long career in public education.
+- I’m proficient in python, SQL, Dash Plotly, PowerBI and Tableau 
+- I’m looking to collaborate on projects in the education space.  Specifically, I am interested in bringing large scale data analytics to smaller schools and districts.  I have found that most of the wonderful analytics tools and techniques are unknown and unavailable to public school personnel. My goal is "democratize data" by working to make these tools avaiable to public educators.
+- 📫 The best way to teach me is at my website at www.scottgambale.com or via LinkedIn at linkedin.com/in/scott-gambale-280010a.
